@@ -2,6 +2,8 @@
 
 **Talk to your database in plain English.** SpeakSQL translates natural language questions into safe, schema-aware SQL queries, executes them, and shows you results with auto-generated charts and AI-powered explanations.
 
+🚀 **Live Demo**: [https://speaksql-pxebwe2s3p63gewa6gft6q.streamlit.app/](https://speaksql-pxebwe2s3p63gewa6gft6q.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-red?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
